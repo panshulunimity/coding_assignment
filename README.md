@@ -1,7 +1,7 @@
 # Coding Assignment
 Coding Assignment for Revision of Drupal Concepts
 
-# Welcome to the COding Assignment.
+# Welcome to the Coding Assignment.
 
 This assignment will help you revisit all Drupal related concepts covered so far. Please review the "How to get started" section for getting started with the assignment.
 
